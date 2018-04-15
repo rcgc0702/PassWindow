@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" name="MyJarOne">
+  <artifact type="javafx" build-on-make="true" name="MyJarOne">
     <output-path>$USER_HOME$/Desktop</output-path>
     <properties id="javafx-properties">
       <options>
